@@ -1,0 +1,12 @@
+body {
+		background-color: lightgray;
+		text-align: center;
+		justify-content: center;
+}
+
+#secondDisplay  {
+		text-align: center;
+}
+#display {
+		text-align: center;
+}
